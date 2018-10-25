@@ -6,6 +6,8 @@
 package com.ph.tbt.bean;
 
 public class Goods {
-
+	public static void main(String[] args) {
+		
+	}
 }
 
